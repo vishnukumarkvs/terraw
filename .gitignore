@@ -25,3 +25,5 @@ terraform.rc
 
 # But DO include the dependency lock file
 # !.terraform.lock.hcl
+
+*.pem
